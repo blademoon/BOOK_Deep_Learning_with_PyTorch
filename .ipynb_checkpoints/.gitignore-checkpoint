@@ -1,2 +1,5 @@
+# Excluded folders
+.ipynb_checkpoints
+
 # Excluded files
 /TOKENS.txt
