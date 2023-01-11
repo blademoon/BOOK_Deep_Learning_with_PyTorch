@@ -1,4 +1,9 @@
+.DS_Store
+tools
+*_old
+
 # Excluded folders
+DATA/
 .ipynb_checkpoints
 
 # Excluded files
